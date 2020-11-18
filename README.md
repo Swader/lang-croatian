@@ -2,7 +2,7 @@
 
 #### INFO
 
-> Translated from a Serbian version and updated for beta 14.
+> Translated from a [Serbian version](https://discuss.flarum.org/d/24125-serbian-language-pack) and updated for beta 14.
 
 #### REQUIREMENT
 
