@@ -1,21 +1,25 @@
 {
-    "name": "bryantmilan/lang-serbian",
+    "name": "swader/lang-croatian",
     "description": "Serbian language pack for Flarum.",
     "type": "flarum-extension",
-    "keywords": ["extension", "flarum", "serbian", "locale", "translation"],
+    "keywords": ["extension", "flarum", "croatian", "locale", "translation"],
     "license": "MIT",
     "authors": [
         {
             "name": "Milan Bryant",
             "email": "milansamp999@gmail.com"
+        },
+        {
+            "name": "Bruno Škvorc",
+            "email": "swader@hey.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/bryantmilan/lang-serbian/issues",
-        "source": "https://github.com/bryantmilan/lang-serbian"
+        "issues": "https://github.com/swader/lang-croatian/issues",
+        "source": "https://github.com/swader/lang-croatian"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.13"
+        "flarum/core": "^0.1.0-beta.14"
     },
     "extra": {
         "branch-alias": {
@@ -31,8 +35,8 @@
             }
         },
         "flarum-locale": {
-            "code": "sr",
-            "title": "Srpski"
+            "code": "hr",
+            "title": "Hrvatski"
         }
     }
 }
