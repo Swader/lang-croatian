@@ -1,29 +1,25 @@
 # SERBIAN LANGUAGE PACK
-![](https://img.shields.io/badge/License-MIT-blue) ![](https://img.shields.io/badge/Packagist-v1.0-orange)
 
 #### INFO
 
-> The Serbian language is primarily made for people from Serbia and people whose mother tongue is serbian.
-> It can be used by all nations of the former Yugoslavia.
-> Translated from [English language](https://github.com/flarum/lang-english) and template from [French language](https://github.com/qiaeru/lang-french).
+> Translated from a Serbian version and updated for beta 14.
 
 #### REQUIREMENT
 
-> Flarum 0.1.0-beta.13
+> Flarum 0.1.0-beta.14
 > 
 #### INSTALLATION
-`composer require bryantmilan/lang-serbian`
-#### UPDATE
-`composer update bryantmilan/lang-serbian`
-#### UNINSTALL
-`composer remove bryantmilan/lang-serbian`
-#### ISSUE REPORTS
 
-- [GitHub Issues](https://github.com/bryantmilan/lang-serbian/issues)
-- [Flarum Discussion](https://discuss.flarum.org/d/24125-serbian-language-pack)
+`composer require swader/lang-croatian`
+#### UPDATE
+
+`composer update swader/lang-croatian`
+#### UNINSTALL
+
+`composer remove swader/lang-croatian`
 
 #### LINKS
 
-- [Flarum](https://discuss.flarum.org/d/24125-serbian-language-pack)
-- [GitHub](https://github.com/bryantmilan/lang-serbian)
-- [Packagist](https://packagist.org/packages/bryantmilan/lang-serbian)
+- [Source](https://github.com/swader/lang-croatian)
+- [GitHub Issues](https://github.com/swader/lang-croatian/issues)
+- [Packagist](https://packagist.org/packages/swader/lang-serbian)
