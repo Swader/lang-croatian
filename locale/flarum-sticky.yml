@@ -9,7 +9,7 @@ flarum-sticky:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      sticky_discussions_label: Učiniti diskusije istaknutim
+      sticky_discussions_label: Istakni rasprave
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -21,12 +21,12 @@ flarum-sticky:
     # These translations are used by the discussion control buttons.
     discussion_controls:
       sticky_button: => flarum-sticky.ref.sticky
-      unsticky_button: Neistaknuti
+      unsticky_button: Ukloni isticanje rasprave
 
     # These translations are displayed between posts in the post stream.
     post_stream:
-      discussion_stickied_text: "{username} je istaknuo diskusiju."
-      discussion_unstickied_text: "{username} je označio diskusiju neistaknutom."
+      discussion_stickied_text: "{username} je istaknuo raspravu."
+      discussion_unstickied_text: "{username} je uklonio isticanje rasprave."
 
   ##
   # REUSED TRANSLATIONS - These keys should not be used directly in code!
