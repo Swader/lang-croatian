@@ -11,9 +11,9 @@ flarum-statistics:
     statistics:
       active_users_text: "{count} članova je aktivno"
       discussions_heading: => core.ref.discussions
-      last_12_months_label: Poslednjih 12 meseci
-      last_28_days_label: Poslednjih mesec dana
-      last_7_days_label: Poslednjih nedelju dana
+      last_12_months_label: Prethodnih 12 mjeseci
+      last_28_days_label: Prethodnih mjesec dana
+      last_7_days_label: Prethodnih tjedan dana
       posts_heading: => core.ref.posts
       today_label: Danas
       total_label: Ukupno
