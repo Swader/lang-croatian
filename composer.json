@@ -26,7 +26,7 @@
             "dev-master": "1.x-dev"
         },
         "flarum-extension": {
-            "title": "Serbian",
+            "title": "Croatian",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#fff",
