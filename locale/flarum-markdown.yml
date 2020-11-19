@@ -15,6 +15,6 @@ flarum-markdown:
       image_tooltip: Dodajte sliku
       italic_tooltip: Italic
       link_tooltip: Dodajte link
-      ordered_list_tooltip: Dodajte numerisanu listu
+      ordered_list_tooltip: Dodajte numeriranu listu
       quote_tooltip: Dodajte citat
-      unordered_list_tooltip: Dodajte nenumerisanu listu
+      unordered_list_tooltip: Dodajte numeriranu listu
