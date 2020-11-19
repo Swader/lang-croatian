@@ -1,6 +1,6 @@
 {
     "name": "swader/lang-croatian",
-    "description": "Serbian language pack for Flarum.",
+    "description": "Croatian language pack for Flarum.",
     "type": "flarum-extension",
     "keywords": ["extension", "flarum", "croatian", "locale", "translation"],
     "license": "MIT",
