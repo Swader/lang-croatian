@@ -30,8 +30,8 @@ flarum-likes:
 
     # These translations are used by the Users Who Like This modal dialog.
     post_likes:
-      title: Članovi koji se ovo sviđa
+      title: Članovi kojima se ovo sviđa
 
     # These translations are used in the Settings page.
     settings:
-      notify_post_liked_label: Ako neko kaže da mu se sviđa moj odgovor
+      notify_post_liked_label: Netko kaže da mu se sviđa moj odgovor
