@@ -43,7 +43,7 @@ flarum-tags:
       required_primary_heading: Potreban broj primarnih kategorija
       required_primary_text: Unesite minimalni i maksimalni broj primarnih kategorija koji se mogu dodijeliti raspravi.
       required_secondary_heading: Potreban broj sekundarnih kategorija
-      required_secondary_text: Unesite minimalni i maksimalni broj sekundarnih kategorija koji se mogu dodeliti raspravi.
+      required_secondary_text: Unesite minimalni i maksimalni broj sekundarnih kategorija koji se mogu dodijeliti raspravi.
       title: Podešavanje kategorija
 
     # These translations are used in the Tags page.
