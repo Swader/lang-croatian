@@ -90,7 +90,7 @@ flarum-tags:
     # These translations are displayed between posts in the post stream.
     post_stream:
       added_and_removed_tags_text: "{username} je promjenio kategoriju diskusije u {tagsAdded} i uklonio iz kategorije {tagsRemoved}."
-      added_tags_text: "{username} je promjenio kategoriju diskusije u {tagsAdded}."
+      added_tags_text: "{username} je promijenio kategoriju rasprave u {tagsAdded}."
       removed_tags_text: "{username} je uklonio kategoriju {tagsRemoved}."
       tags_text: "{tags}|{tags}"
 
