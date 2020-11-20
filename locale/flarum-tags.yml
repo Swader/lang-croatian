@@ -48,7 +48,7 @@ flarum-tags:
 
     # These translations are used in the Tags page.
     tags:
-      about_tags_text: "Kategorije se koriste za podjelu rasprava u hijerarhiju. Primarne kategorije su glavne i nužne, a sekundarne kategorije sporedna i opcionalna."
+      about_tags_text: "Kategorije se koriste za podjelu rasprava u hijerarhiju. Primarne kategorije su glavne i nužne, a sekundarne kategorije sporedne i opcionalne."
       create_tag_button: => flarum-tags.ref.create_tag
       primary_heading: Primarne kategorije
       secondary_heading: Sekundarne kategorije
