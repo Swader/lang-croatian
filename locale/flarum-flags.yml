@@ -15,7 +15,7 @@ flarum-flags:
     # These translations are used in the Flags Settings modal dialog.
     settings:
       flag_own_posts_label: Dozvoli korisnicima da prijave svoje odgovore
-      guidelines_url_label: URL smernica zajednice
+      guidelines_url_label: URL smjernica zajednice
       title: Podešavanje prijava
 
   # Translations in this namespace are used by the forum user interface.
@@ -23,14 +23,14 @@ flarum-flags:
 
     # These translations are used by the Flag Post modal dialog.
     flag_post:
-      confirmation_message: Hvala vam što ste prijavili ovaj odgovor. Naši moderatori će to razmotriti.
+      confirmation_message: Hvala vam što ste prijavili ovaj odgovor. Naši moderatori će razmotriti vašu prijavu.
       dismiss_button: => core.ref.okay
-      reason_details_placeholder: Dodatni detalji (opciono)
+      reason_details_placeholder: Dodatni detalji (opcionalno)
       reason_inappropriate_label: Neprikladno
       reason_inappropriate_text: "Ovaj odgovor je uvredljiv i krši naša <a>pravila zajednice</a>."
-      reason_missing_message: Molimo navedite neke detalje za naše moderatore.
-      reason_off_topic_label: "Van tema"
-      reason_off_topic_text: Ovaj odgovor nije vezan za trenutnu diskusiju i treba ga prebaciti na drugo mesto.
+      reason_missing_message: Molimo navedite dodatne detalje za naše moderatore.
+      reason_off_topic_label: "Izvan teme"
+      reason_off_topic_text: Ovaj odgovor nije vezan za trenutnu raspravu i treba ga prebaciti na drugo mjesto.
       reason_other_label: Drugo (navesti)
       reason_spam_label: Neželjeno
       reason_spam_text: Ovaj odgovor je reklama.
