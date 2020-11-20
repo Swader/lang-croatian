@@ -30,7 +30,7 @@ flarum-flags:
       reason_inappropriate_text: "Ovaj odgovor je uvredljiv i krši naša <a>pravila zajednice</a>."
       reason_missing_message: Molimo navedite dodatne detalje za naše moderatore.
       reason_off_topic_label: "Izvan teme"
-      reason_off_topic_text: Ovaj odgovor nije vezan za trenutnu diskusiju i treba ga prebaciti na drugo mesto.
+      reason_off_topic_text: Ovaj odgovor nije vezan za trenutnu raspravu i treba ga prebaciti na drugo mjesto.
       reason_other_label: Drugo (navesti)
       reason_spam_label: Neželjeno
       reason_spam_text: Ovaj odgovor je reklama.
