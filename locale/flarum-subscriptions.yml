@@ -29,7 +29,7 @@ flarum-subscriptions:
     # These translations are used in the Settings page.
     settings:
       follow_after_reply_label: Automatski pratite rasprave u kojima odgovorite
-      notify_new_post_label: Ako neko odgovori u raspravi koju pratim
+      notify_new_post_label: Ako netko odgovori u raspravi koju pratim
 
     # These translations are used in the subscription menu displayed to the right of the post stream.
     sub_controls:
