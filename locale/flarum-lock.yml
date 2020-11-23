@@ -9,7 +9,7 @@ flarum-lock:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      lock_discussions_label: Zaključavanje diskusije
+      lock_discussions_label: Zaključavanje rasprave
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -25,13 +25,13 @@ flarum-lock:
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
-      discussion_locked_text: "{username} je zaključao diskusiju"
+      discussion_locked_text: "{username} je zaključao raspravu"
 
     # These translations are displayed between posts in the post stream.
     post_stream:
-      discussion_locked_text: "{username} je zaključao diskusiju."
-      discussion_unlocked_text: "{username} je otključao diskusiju."
+      discussion_locked_text: "{username} je zaključao raspravu."
+      discussion_unlocked_text: "{username} je otključao raspravu."
 
     # These translations are used in the Settings page.
     settings:
-      notify_discussion_locked_label: Ako neko zaključa moju diskusiju
+      notify_discussion_locked_label: Ako netko zaključa moju raspravu
