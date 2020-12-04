@@ -1,17 +1,17 @@
-// Custom Serbian Moment.js Locales
+// Custom Croatian Moment.js Locales
 // Based on: https://github.com/moment/moment/blob/develop/locale/fr.js
 // Thanks to: https://github.com/qiaeru
 
-moment.locale('sr', {
-  months: 'januar_februar_mart_april_maj_jun_jul_avgust_septembar_oktobar_novembar_decembar'.split(
+moment.locale('hr', {
+  months: 'siječanj_veljača_ožujak_travanj_svibanj_lipanj_srpanj_kolovoz_rujan_listopad_studeni_prosinac'.split(
     '_'
   ),
-  monthsShort: 'jan._feb._mar._apr._maj_jun_jul_avg._sep._okt._nov._dec.'.split(
+  monthsShort: 'sij_velj_ožu_tra_svi_lip_srp_kol_ruj_lis_stu_pros'.split(
     '_'
   ),
   monthsParseExact: true,
-  weekdays: 'nedelja_ponedeljak_utorak_sreda_četvrtak_petak_subota'.split('_'),
-  weekdaysShort: 'ned._pon._uto._sre._čet._pet._sub.'.split('_'),
+  weekdays: 'nedjelja_ponedjeljak_utorak_srijeda_četvrtak_petak_subota'.split('_'),
+  weekdaysShort: 'ned._pon._uto._sri._čet._pet._sub.'.split('_'),
   weekdaysMin: 'ne_po_ut_sr_če_pe_su'.split('_'),
   weekdaysParseExact: true,
   longDateFormat: {
@@ -26,23 +26,23 @@ moment.locale('sr', {
     sameDay: '[Danas u] LT',
     nextDay: '[Sutra u] LT',
     nextWeek: 'dddd [u] LT',
-    lastDay: '[Juče u] LT',
-    lastWeek: 'dddd [prošle nedelje] LT',
+    lastDay: '[Jučer u] LT',
+    lastWeek: 'dddd [prošlog tjedna] LT',
     sameElse: 'L',
   },
   relativeTime: {
     future: 'za %s',
-    past: 'pre %s',
+    past: 'prije %s',
     s: 'nekoliko sekundi',
     ss: '%d sekundi',
-    m: 'minut',
+    m: 'minute',
     mm: '%d minuta',
     h: 'sat vremena',
     hh: '%d sati',
     d: 'jedan dan',
     dd: '%d dana',
-    M: 'mesec dana',
-    MM: '%d meseci',
+    M: 'mjesec dana',
+    MM: '%d mjeseci',
     y: 'godinu dana',
     yy: '%d godina',
   },
