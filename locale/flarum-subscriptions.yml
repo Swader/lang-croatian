@@ -15,8 +15,8 @@ flarum-subscriptions:
     # These translations are used by the discussion control buttons.
     discussion_controls:
       follow_button: => flarum-subscriptions.ref.follow
-      unfollow_button: Podrazumevano
-      unignore_button: Podrazumevano
+      unfollow_button: Odprati
+      unignore_button: Prestani ignorirati
 
     # These translations are used on the index page, peripheral to the discussion list.
     index:
@@ -28,20 +28,20 @@ flarum-subscriptions:
 
     # These translations are used in the Settings page.
     settings:
-      follow_after_reply_label: Automatski pratite diskusije u kojima odgovorite
-      notify_new_post_label: Ako neko odgovori u diskusiji koju pratim
+      follow_after_reply_label: Automatski pratite rasprave u kojima odgovorite
+      notify_new_post_label: Ako netko odgovori u raspravi koju pratim
 
     # These translations are used in the subscription menu displayed to the right of the post stream.
     sub_controls:
       follow_button: => flarum-subscriptions.ref.follow
       following_button: => flarum-subscriptions.ref.following
-      following_text: Budite obavešteni o svim novim odgovorima.
+      following_text: Obavijesti o svim novim odgovorima.
       ignoring_button: => flarum-subscriptions.ref.ignoring
-      ignoring_text: Nikada nećete biti obavešteni i ova diskusija Vam se više neće prikazivati.
-      not_following_button: Podrazumevano
-      not_following_text: "Budite obavešteni samo kada Vas neko spomene."
-      notify_alert_tooltip: Izaberite obaveštenja vezana za ovu diskusiju
-      notify_email_tooltip: Izaberite email obaveštenja vezana za ovu diskusiju
+      ignoring_text: Nikada nećete biti obaviješteni i ova rasprava Vam se više neće prikazivati.
+      not_following_button: Prekini pratiti
+      not_following_text: "Budite obavješteni samo kada Vas neko spomene."
+      notify_alert_tooltip: Izaberite obavještenja vezana za ovu diskusiju
+      notify_email_tooltip: Izaberite email obavještenja vezana za ovu diskusiju
 
   ##
   # REUSED TRANSLATIONS - These keys should not be used directly in code!
@@ -51,4 +51,4 @@ flarum-subscriptions:
   ref:
     follow: Zaprati
     following: Omiljeno
-    ignoring: Ignoriši
+    ignoring: Ignoriraj
